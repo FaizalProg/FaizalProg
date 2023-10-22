@@ -24,3 +24,4 @@ Jika Anda ingin berbicara atau berkolaborasi, jangan ragu untuk menghubungi saya
 - 📧 Email: faizalaliprog@gmail.com
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk mengikuti atau menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi dalam proyek yang menarik.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaizalProg&show_icons=true&locale=en" alt="faizalprog" /></p>
