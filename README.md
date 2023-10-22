@@ -1,6 +1,6 @@
 # Halo, Saya Faizal! 👋
 
-<!-- ![Profil Gambar](link-ke-gambar-profil) --!>
+<!-- [Profil Gambar](link-ke-gambar-profil) --!>
 
 Saya seorang Full Stack Web Programmer di FastPrint Indonesia dengan minat utama dalam AI (Artificial Intelligence) dan Machine Learning. Selain pekerjaan utama saya sebagai programmer, saya juga memegang beberapa peran lain dalam proyek-proyek yang saya kerjakan, termasuk sebagai Project Manager, Quality Assurance, DevOps, dan terkadang menjadi IT Support.
 
