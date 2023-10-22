@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](link-ke-build)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-100%2B-blue)](link-ke-kontribusi)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsors-5-brightgreen)](link-ke-sponsors)
+
 ![Followers](https://img.shields.io/github/followers/FaizalProg?style=social)
