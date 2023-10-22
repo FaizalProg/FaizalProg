@@ -1,16 +1,28 @@
-### Hi there 👋
+# Halo, Saya Faizal! 👋
 
-**FaizalProg/FaizalProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profil Gambar](link-ke-gambar-profil)
 
-Here are some ideas to get you started:
+Saya seorang Full Stack Web Programmer di FastPrint Indonesia dengan minat utama dalam AI (Artificial Intelligence) dan Machine Learning. Selain pekerjaan utama saya sebagai programmer, saya juga memegang beberapa peran lain dalam proyek-proyek yang saya kerjakan, termasuk sebagai Project Manager, Quality Assurance, DevOps, dan terkadang menjadi IT Support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Pekerjaan dan Peran
+- 💼 **Bekerja di**: [FastPrint Indonesia](https://www.fastprint.co.id/)
+- 👨‍💻 **Pekerjaan Utama**: Full Stack Web Programmer
+- 📊 **Peran Lainnya**: Project Manager, Quality Assurance, DevOps, IT Support
 
-![Followers](https://img.shields.io/github/followers/FaizalProg?style=social)
+## Minat
+- 🤖 **Minat Utama**: AI (Artificial Intelligence) dan Machine Learning
+
+## Proyek Terbaru
+- 🚀 Proyek ERP: Membangun ERP yang dapat mengakomodasi seluruh kebutuhan berbagai perusahaan.
+- 🌐 Proyek Absensi: Menggunakan flutter dan django, dengan memanfaatkan face recognition.
+
+## Tautan
+- 🌐 [alispace](alispace.top)
+- 📝 [TinggalCoding](https://tinggalngoding.blogspot.com/)
+
+## Hubungi Saya
+Jika Anda ingin berbicara atau berkolaborasi, jangan ragu untuk menghubungi saya:
+- 📧 Email: faizalaliprog@gmail.com
+- 💬 [LinkedIn]()
+
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk mengikuti atau menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi dalam proyek yang menarik.
